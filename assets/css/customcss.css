@@ -68,7 +68,10 @@
     color: white;
     background-image: linear-gradient(45deg, #abd7eb,#8fdd8b);
 }
-
+.left-image{
+    position: relative;
+    z-index: 99;
+}
 /* rgba(171,215,235,1)
 rgba(143,221,139,1) */
 /* rgba(220,140,219,0.3) */
