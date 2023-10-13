@@ -85,7 +85,7 @@
 
 #order-page{
     min-height: 100vh;
-    background-image: url("../images/testimonials-left-dec.png"),url("../images/banner-right-dec.png");
+    background-image: url("../images/testimonials-left-dec.webp"),url("../images/banner-right-dec.webp");
     background-position: left,right;
     background-repeat: no-repeat;
 }
